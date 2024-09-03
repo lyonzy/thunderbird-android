@@ -41,7 +41,7 @@ android {
     namespace = "com.fsck.k9"
 
     defaultConfig {
-        applicationId = "com.fsck.k9"
+        applicationId = "com.lyonzy.k9"
         testApplicationId = "com.fsck.k9.tests"
 
         versionCode = 39004
